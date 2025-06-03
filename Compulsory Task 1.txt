@@ -1,0 +1,11 @@
+# ************ Compulsory Task 1 ************
+
+1. a) Data refers to unprocessed facts, however if not organized in a logical way, it holds minimal significance.
+   b) Field is defined as a single character or a group of characters with a specific meaning, which are used to define and store data.
+   c) Record is defined as a logically connected collection of one or more fields that provides information about a person, place, or thing.
+   d) A file is defined as a set of related records.
+2. DBMS is a set of programs designed to manage the database structure and regulate access to the data stored within it. The advantages of a DBMS include enhanced data sharing, improved data integration, reduced data inconsistency, better data access, improved decision-making, and increased productivity for end-users.
+3. The difference between data and information includes the fact that data is raw and unorganized whereas information is processed and organized, data lacks meaning on its own while information carries meaningful insights or knowledge and lastly data serves as the input for processing and information serves as the output of processing, aiding in decision-making or understanding.
+4. Metadata is the description of the characteristics of data and the relationships that connect data variables.
+5. e) Four records.
+   f) Five fields.
