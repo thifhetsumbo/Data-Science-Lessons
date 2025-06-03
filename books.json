@@ -1,0 +1,40 @@
+{
+    "books": [{
+        "1st_book": {
+            "title": "A bend in the road",
+            "author": "Nichola Sparks",
+            "publication_year": 2001,
+            "goodreads_rating": 4.0
+        },
+        "2nd_book": {
+            "title": "Black girls must die exhausted",
+            "author": "Jayne Allen",
+            "publication_year": 2018,
+            "goodreads_rating": 3.9
+        },
+        "3rd_book": {
+            "title": "The couple at No.9",
+            "author": "Claire Douglas",
+            "publication_year": 2021,
+            "goodreads_rating": 4.1
+        },
+        "4th_book": {
+            "title": "You made a fool of death with your beauty",
+            "author": "Akwaeke Emezi",
+            "publication_year": 2022,
+            "goodreads_rating": 3.5
+        },
+        "5th_book": {
+            "title": "12:01",
+            "author": "Bella Jay",
+            "publication_year": 2023,
+            "goodreads_rating": 4.5
+        },
+        "6th_book": {
+            "title": "The shack",
+            "author": "William Paul Young",
+            "publication_year": 2007,
+            "goodreads_rating": 3.8
+        }
+    }]
+}
